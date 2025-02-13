@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iray\\source\\repos\\parallelexecution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|c:\\users\\iray\\source\\repos\\parallelexecution\\hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|solutionrelative:hooks1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|c:\\users\\iray\\source\\repos\\parallelexecution\\stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|solutionrelative:stepdefinitions\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|c:\\users\\iray\\source\\repos\\parallelexecution\\pages\\assistliveguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|solutionrelative:pages\\assistliveguide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|c:\\users\\iray\\source\\repos\\parallelexecution\\pages\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|solutionrelative:pages\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|c:\\users\\iray\\source\\repos\\parallelexecution\\features\\featur1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|solutionrelative:features\\featur1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|c:\\users\\iray\\source\\repos\\parallelexecution\\drivers\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E5D269-0221-406C-8B78-A30FF06E33FA}|parallelexecution.csproj|solutionrelative:drivers\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Steps.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\parallelexecution\\StepDefinitions\\Steps.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Steps.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\parallelexecution\\StepDefinitions\\Steps.cs",
+              "RelativeToolTip": "StepDefinitions\\Steps.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:11:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Pages\\Common.cs",
+              "RelativeDocumentMoniker": "Pages\\Common.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Pages\\Common.cs",
+              "RelativeToolTip": "Pages\\Common.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:20:55.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssistLiveGuide.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Pages\\AssistLiveGuide.cs",
+              "RelativeDocumentMoniker": "Pages\\AssistLiveGuide.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Pages\\AssistLiveGuide.cs",
+              "RelativeToolTip": "Pages\\AssistLiveGuide.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:43:35.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "drivers.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Drivers\\drivers.cs",
+              "RelativeDocumentMoniker": "Drivers\\drivers.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Drivers\\drivers.cs",
+              "RelativeToolTip": "Drivers\\drivers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:34:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hooks1.cs",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Hooks1.cs",
+              "RelativeDocumentMoniker": "Hooks1.cs",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Hooks1.cs",
+              "RelativeToolTip": "Hooks1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:44:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Featur1.feature",
+              "DocumentMoniker": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Features\\Featur1.feature",
+              "RelativeDocumentMoniker": "Features\\Featur1.feature",
+              "ToolTip": "C:\\Users\\iray\\source\\repos\\parallelexecution\\Features\\Featur1.feature",
+              "RelativeToolTip": "Features\\Featur1.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKnSURBVDhPjVJNaxNRFD0zSWaS9DNNOv3Uak1rlYpSBZGKtGBbRKsLPzeCuBJcKHTjwoUIRRBUEBfqDxDUnRShCLZKQKqVNn5UKY1tNaZlmrbEJDPJZKbjfa/RdKP0vHk83pt7zjvv3iuA0Hfvii15TSzq87Bp/A8CDb\u002BnGobmxK2LNyBcvttnq44QevbsQnWJwiJ4GLgQ36wBndE3n1QxODoOxWyHcO7Ocbu3sxYtgWYYVvYvRXb6aJ\u002BEKLjgdvmRykbzfwDJIeNrfBLPhmIQVT2CYtkN3UxjxbZgrphE8qBROYVAcRt8Rdux0X\u002BYzmQSd/IYFss4jCtatslvZW9ziB7Ulu\u002BHw\u002BFGPDkOUXTBWslhMfUBpZ5N2FpzltwEeCzjWHYO4tp3ys5SVBTtwMaKbsRTYajJ91jWvmAhOYYiuR5JfQY5K1VINC0kUIBmqJhSH\u002BP70iBZNWBaaXKQoWfpSGZm\u002BOpxVeajV0ECeTWC7CxHUDmJDb4uCIITXqmGT3ZumL/gL94Jn7eFKAUOd8C2zBa7YSk9gdnF51BK2ng\u002B3K4KNFWdJicGPsce4MfyCxLPP5tWsUxSkDUNrsLsziVCtE/w0uUsDelsjObc6hVUAQZmIEOcMqkSwpn\u002BE/bm1jg6t\u002ByF1\u002Bnl\u002BXWIDkiSG2bOol7QuTu6i5OZkGZqGIqM4NsnqsjV\u002B9fsN9MvUVlPJZEyaGzworuuC2mq9UhsDJGfCeqBQq6ZWEa3oUYltDceXK3hq7ev7dmFKJ6MPsTRjhq4qQ\u002BGJyeQiFahp/UYwlMTWFiO8yZiZW9uCGLftt3o7TjyJxvA\u002Bf4Ldk4ZQVNdAO/ClAM9iKfXHxWa5B/g3gaGB\u002BzpxEcIoo1QKIsmb8e6yAxcIKVpyGYsRMJlOBA8hNuXbq6LDAC/AbVZHaMn6RQdAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-12-11T05:06:21.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
